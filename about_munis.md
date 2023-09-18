@@ -13,6 +13,7 @@ To find out when the next interest rate raise might occur, I recommend monitorin
 User
 explain municipal bond market
 ChatGPT
+```
 The municipal bond market, often referred to as the "munis" market, is a segment of the bond market where state and local governments in the United States issue debt securities to raise funds for various public projects and infrastructure developments. These government entities issue municipal bonds as a means of financing public works projects, such as building schools, highways, bridges, water treatment facilities, and more. Here are some key aspects of the municipal bond market:
 
 Issuers: Municipal bonds are typically issued by state and local governments, including cities, counties, school districts, and other municipal entities. States themselves may also issue bonds.
@@ -37,3 +38,4 @@ Market Size: The municipal bond market is substantial, with thousands of issuers
 Default Risk: While municipal bonds are generally considered low-risk investments, there is still a possibility of default, particularly with lower-rated bonds. It's essential for investors to research the creditworthiness of the issuer and assess the associated risks.
 
 Investors in municipal bonds include individuals, institutional investors, and mutual funds. The tax advantages and relative stability of municipal bonds can make them an attractive option for income-oriented investors seeking tax-efficient income streams. However, as with any investment, it's important to carefully consider your investment objectives, risk tolerance, and perform due diligence before investing in municipal bonds.
+```
